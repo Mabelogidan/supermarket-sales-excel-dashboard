@@ -2,7 +2,7 @@
 
 An Excel dashboard that answers one question: **where and when does a three-branch supermarket make the most money, and what keeps customers happy?**
 
-`Supermarket sales dashboard.jpg`
+![`Supermarket sales dashboard.jpg]`
 
 ## Data
 1,000 sales from three branches (A, B, C), January to March 2019. Each row is one sale with product line, quantity, unit price, tax, payment method, customer type, time and customer rating.
